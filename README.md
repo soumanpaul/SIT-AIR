@@ -8,6 +8,8 @@ The project aims to develop a complete drone platform from the ground up using o
 
 Build the aircraft. Build the autonomy. Build the intelligence.
 
+![SIT-AIR Drone](final-product.jpeg)
+
 ⸻
 
 🚧 Project Status
